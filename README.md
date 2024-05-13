@@ -9,3 +9,10 @@
 2. startapp 세븐틴
    1. python manage.py startapp 세븐틴
    2. '세븐틴', in INSTALLED_APPS in settings.py
+3. 세븐틴/
+   1. models
+      1. Character
+         1. name, feature, created_at, updated_at
+      2. python manage.py makemigrations 콩순이
+      3. python manage.py migrate 세븐틴
+      4. 
