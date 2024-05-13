@@ -21,3 +21,5 @@
       2. python manage.py createsuperuser
    3. views
       1. R : CharacterListView
+   4. templates/세븐틴/
+      1. character)list.html
