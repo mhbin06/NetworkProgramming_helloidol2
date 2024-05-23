@@ -23,3 +23,5 @@
       1. R : CharacterListView
    4. templates/세븐틴/
       1. character)list.html
+   5. urls
+      1. 세븐틴 : character_list
